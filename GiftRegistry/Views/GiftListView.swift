@@ -51,7 +51,7 @@ class GiftListViewModel {
                             ($0.isPurchased.desc(), $0.name)
                         }
                         .where {
-                            $0.personID == personID
+                            $0.personID.is(personID)
                         }
                         .leftJoin(GiftAsset.all) {
                             $0.id.eq($1.giftID)
