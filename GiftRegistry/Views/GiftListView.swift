@@ -51,7 +51,7 @@ class GiftListViewModel {
                             ($0.isPurchased.desc(), $0.name)
                         }
                         .where {
-                            $0.personID == personID
+                            $0.personID.is(personID)
                         }
                         .leftJoin(GiftAsset.all) {
                             $0.id.eq($1.giftID)
@@ -79,8 +79,8 @@ class GiftListViewModel {
                 try Gift
                     .find(gift.id)
                     .update {
-                        $0.isPurchased.toggle()
-                        $0.updatedAt = Date()
+                        $0.isPurchased = #bind(!gift.isPurchased)
+                        $0.updatedAt = #bind(Date())
                     }
                     .execute(db)
             }
