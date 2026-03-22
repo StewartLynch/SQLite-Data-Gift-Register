@@ -55,7 +55,7 @@ class PersonFormModel {
                         ($0.isPurchased.desc(), $0.name)
                     }
                     .where {
-                        $0.personID == person.id
+                        $0.personID.is(person.id)
                     },
                 animation: .default
                 )
