@@ -5,7 +5,9 @@ This also serves as the starter project code for the third video in the series.
 
 If you want to support my work, you can - </br>
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uNszSlj3Jt8
+" target="_blank"><img src="http://img.youtube.com/vi/uNszSlj3Jt8/0.jpg" 
+alt="SQLIteData Part 2" width="480" height="360" border="1" /></a>
 
 >  Point-Free Site: https://www.pointfree.co 
 >
