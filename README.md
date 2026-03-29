@@ -4,7 +4,9 @@
 
 This also serves as the starter project code for the fourth video in the series.
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qKAhxmrjqKQ
+" target="_blank"><img src="http://img.youtube.com/vi/qKAhxmrjqKQ/0.jpg" 
+alt="SQLiteData Part 3" width="480" height="360" border="1" /></a>
 
 >  Point-Free Site: https://www.pointfree.co 
 >
