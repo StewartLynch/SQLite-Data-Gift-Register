@@ -3,7 +3,9 @@
 ![AppIcon128](Images/AppIcon128.png) This is the **Completed Source Code** for the first video on creating a **Gift Registry** app with **SQLiteData**
 This also serves as the Starter Project code for the second video in this series.
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=p3NdQL9DND0
+" target="_blank"><img src="http://img.youtube.com/vi/p3NdQL9DND0/0.jpg" 
+alt="SQLiteData Part 1" width="480" height="360" border="1" /></a>
 
 >  Point-Free Site: https://www.pointfree.co 
 >
