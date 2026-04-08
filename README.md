@@ -4,7 +4,9 @@
 
 This also serves as the starter project code for the seventh video in the series.
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Js1n-sbUyU4
+" target="_blank"><img src="http://img.youtube.com/vi/Js1n-sbUyU4/0.jpg" 
+alt="Part 6" width="480" height="360" border="1" /></a>
 
 >  Point-Free Site: https://www.pointfree.co 
 >
