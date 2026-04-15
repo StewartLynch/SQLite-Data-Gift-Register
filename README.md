@@ -4,7 +4,9 @@
 
 This also serves as the starter project code for the ninth video in the series.
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kePACRwjumM
+" target="_blank"><img src="http://img.youtube.com/vi/kePACRwjumM/0.jpg" 
+alt="Part 8" width="480" height="360" border="1" /></a>
 
 >  Point-Free Site: https://www.pointfree.co 
 >
