@@ -4,6 +4,9 @@
 
 This also serves as the starter project code for the tenth video in the series.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EhNxQYlHEfM
+" target="_blank"><img src="http://img.youtube.com/vi/EhNxQYlHEfM/0.jpg" 
+alt="Part 9" width="480" height="360" border="1" /></a>
 
 
 >  Point-Free Site: https://www.pointfree.co 
